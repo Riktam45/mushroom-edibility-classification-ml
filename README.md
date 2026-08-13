@@ -222,7 +222,7 @@ All models are wrapped in a full `Pipeline` (preprocessor + classifier).
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Test Set Results
 
