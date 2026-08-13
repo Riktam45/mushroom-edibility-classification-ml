@@ -416,5 +416,4 @@ The notebook will:
 
 GitHub: [https://github.com/Riktam45](https://github.com/Riktam45)
 
-This project was created for educational and learning purposes.
 ```
