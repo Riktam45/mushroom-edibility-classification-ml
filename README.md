@@ -415,5 +415,3 @@ The notebook will:
 **Riktam Sarkar**
 
 GitHub: [https://github.com/Riktam45](https://github.com/Riktam45)
-
-```
